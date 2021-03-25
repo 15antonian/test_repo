@@ -1,5 +1,5 @@
 #include <iostream>
-
+using namespace std;
 int main(){
-  std::cout << "one more change, jk" << std::endl;
+  cout << 42 << endl;
 }
